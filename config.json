@@ -1,7 +1,8 @@
 {
     "model_type": "llama"
+  ```from datasets import load_dataset
+`````dataset = load_dataset('Salesforce/xlam-function-calling-60k')
+
 }
 
 
-from datasets import load_dataset
-dataset = load_dataset('Salesforce/xlam-function-calling-60k')
