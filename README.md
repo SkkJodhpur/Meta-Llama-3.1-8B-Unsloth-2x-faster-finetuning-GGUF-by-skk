@@ -19,9 +19,7 @@ tags:
 This model is a fine-tuned version of Meta-Llama-3.1-8B, optimized for faster inference and efficient model adaptation. Fine-tuning was performed using Unsloth, Low-Rank Adaptation (LoRA), and 4-bit quantization. The model is designed to provide enhanced, context-aware, and relevant interactions for various applications.
 
 
-**Developed by:** Shailesh Kumar Khanchandani
-
-**Shared by:** Shailesh Kumar Khanchandani
+**Trained by:** Shailesh Kumar Khanchandani
 
 **Model type:** Causal Language Model
 
