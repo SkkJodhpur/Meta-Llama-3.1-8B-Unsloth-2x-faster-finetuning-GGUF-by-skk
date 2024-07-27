@@ -3,6 +3,8 @@ base_model: unsloth/meta-llama-3.1-8b-bnb-4bit
 language:
 - en
 license: apache-2.0
+datasets:
+  - Salesforce/xlam-function-calling-60k
 tags:
 - text-generation-inference
 - transformers
